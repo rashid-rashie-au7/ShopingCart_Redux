@@ -1,8 +1,6 @@
 import React from 'react';
 
-//feature1
-//feature   1111
-// fearytr23456
+
 function App() {
   return (
     <div className="grid-container">
